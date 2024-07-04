@@ -30,6 +30,7 @@
     width: 200%;
     overflow-x: hidden;
     transition: 0.5s;
+      
 }
 
 .slider ul li {
@@ -61,5 +62,5 @@
 }
 
 .user-info h3{
-    x
+    
 }
